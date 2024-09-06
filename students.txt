@@ -1,0 +1,3 @@
+2234,james,24,jameswebb@gmail.com,disd
+343,prescott,14,prescottuseni@gmmail.com,primScl
+1212,vicky,44,vicky@gmail.com,mas
